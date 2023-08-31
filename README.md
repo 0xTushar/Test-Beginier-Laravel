@@ -1,3 +1,5 @@
 # Beginier Tasks
 
-Route Task
+all tasks in 
+-    routes/web.php
+-    routes/api.php
